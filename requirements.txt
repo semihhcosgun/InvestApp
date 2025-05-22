@@ -1,7 +1,10 @@
-fpdf
-matplotlib
-numpy
-pandas
-plotly
 streamlit
+pandas
+numpy
+matplotlib
+scipy
 yfinance
+scikit-learn
+plotly
+fpdf
+kaleido
