@@ -86,7 +86,7 @@ def load_data(stocks, start_date_yf, end_date_yf):
 
 # --- Streamlit UI ---
 
-st.sidebar.title("Investment Application")
+st.sidebar.title("GSU'25 Graduation Thesis Investment Application Created by Semih Coşgun")
 page = st.sidebar.radio("Select Page:", ["Portfolio Analysis", "Stock Data"])
 
 # Ask user to input start and end date (placed outside page logic for consistency)
